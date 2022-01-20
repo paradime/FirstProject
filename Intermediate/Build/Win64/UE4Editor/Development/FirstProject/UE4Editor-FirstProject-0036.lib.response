@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FirstProject-0036.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\FirstProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Floater.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\FirstProject.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\FirstProjectGameModeBase.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MainCharacter.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MyObject.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\FirstProject.init.gen.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\FirstProjectGameModeBase.gen.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Floater.gen.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MainCharacter.gen.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\MyObject.gen.cpp.obj"
+"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Default.rc2.res"
+/OUT:"E:\Unreal Project\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\UE4Editor-FirstProject-0036.lib"
