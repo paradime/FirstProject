@@ -65,6 +65,11 @@ public:
 		SpringArm = springArm;
 	}
 
+	UPROPERTY(VisibleAnywhere, Category = "Movement")
+		class UColliderMovementComponent* OurMovementComponent;
+
+	virtual UPawnMovementComponent* GetMovementComponent() const override;
+
 private:
 	void MoveForward(float input);
 	void MoveRight(float input);
