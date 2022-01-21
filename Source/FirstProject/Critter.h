@@ -28,7 +28,7 @@ public:
 
 
 	UPROPERTY(EditAnywhere, Category = "Mesh")
-		UStaticMeshComponent* MeshComponent;
+		class USkeletalMeshComponent* MeshComponent;
 
 	UPROPERTY(EditAnywhere)
 		class UCameraComponent* Camera;
